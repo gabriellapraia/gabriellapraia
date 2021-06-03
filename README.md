@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gabriellapraia
-- 👀 I’m interested in face challenges
-- 🌱 I'm currently improving, trying to qualify myself to be a web developer
-- 💞️  I'm looking for a collaborator in developing, creating, helping with new ideas
-- 📫 How to reach me 69042010
+👋 Hi, I'm @gabriellapraia
+- 👀 I am interested in facing challenges
+- 🌱 I'm currently improving in some system points, qualifying to be a web developer
+- 💞️ Looking to collaborate to develop, create, help with new ideas
+- 📫 How to contact me (92) 99215-5598
 
 <!---
 gabriellapraia/gabriellapraia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
